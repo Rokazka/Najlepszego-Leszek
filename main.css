@@ -53,6 +53,8 @@ video {
     display: flex;
     justify-content: center;
     width: 100%;
+    align-items: center;
+    height: 100%;
 }
 
 h3 {
@@ -315,6 +317,7 @@ p {
         display: flex;
         justify-content: center;
         width: 100%;
+        align-items: center;
     }
     h3 {
         color: #f70707;
